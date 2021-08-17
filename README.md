@@ -1,9 +1,11 @@
 # Interactive-Maps
 
-echo "# Interactive-Maps" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:chinomnsomaduka/Interactive-Maps.git
-git push -u origin main
+# Introduction
+
+You are an urban safety planner in Japan, and you are analyzing which areas of Japan need extra earthquake reinforcement.  Which areas are both high in population density and prone to earthquakes?
+
+<center>
+<img src="https://i.imgur.com/Kuh9gPj.png" width="450"><br/>
+</center>
+
+Before you get started, run the code cell below to set everything up.
